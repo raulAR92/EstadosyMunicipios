@@ -1,2 +1,2 @@
 # EstadosyMunicipios
-Archivo javascript con un array de objetos con los estados y sus respectivos municipios.
+Archivo javascript con un array de objetos con los estados de México y sus respectivos municipios.
